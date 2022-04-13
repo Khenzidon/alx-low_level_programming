@@ -1,12 +1,13 @@
-#include <stdio.h>
+#include "header.h"
 
 /**
- * main - prints out _putchar
- * Return 0 if executed properly
+ * main - prints _putchar followed by a newline
+ *
+ * Returns 0 on success
 */
 int main(void)
 {
-	char ch = _putchar;
-	putchar(ch);
-	return 0;
+   _putchar('_');
+   _putchar('p');
+
 }
