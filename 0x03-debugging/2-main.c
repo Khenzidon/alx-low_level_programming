@@ -7,7 +7,6 @@
 */
 
 int main(void)
-largest = largest_number(a, b, c);
 {
         int a, b, c;
         int largest;
