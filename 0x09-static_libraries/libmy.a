@@ -1,0 +1,50 @@
+ 
+ ​!<arch> 
+ ​/               1551377248  0     0     0       246       ` 
+ :f�>��!�'�,�27�<�B�H&M�SX�^>cZh�_isupper_memset_strcat_atoi_isdigit_memcpy_strncat_strchr_strlen_strncpy_islower_puts_strcmp_strspn_isalpha_strpbrk_strstr_abs_strcpy_putchar0-isupper.o/ 1551376391 1000 1000 100664 1264 ` 
+ ELF>(@@UH��}��}�@~ �}�Z���]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�!A�C \.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@!!a'a,0a45�J�8E�	�T�� 
+ 	��� !0-isupper.c_isupper 0-memset.o/ 1551376392 1000 1000 100664 1288 ` 
+ ELF>@@@UH��H�}���U��E��E���U�H�E�H��E��E��E�;E�r�H�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�;A�C v.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@;!{'{,0{45�J�8E�	�T� 
+ 	���;0-memset.c_memset 0-strcat.o/ 1551376392 1000 1000 100664 1368 ` 
+ ELF>�@@UH��H�}�H�u��E��E���E��E�Hc�H�E�H����u��'�E�Hc�H�E�H‹E�Hc�H�E�H����E��E��E�Hc�H�E�H����uŋE�Hc�H�E�H��H�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx��A�C �.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@�!�'�,0�45�J8E@	8TP� 
+ 	(���0-strcat.c_strcat 100-atoi.o/ 1551376392 1000 1000 100664 1544 ` 
+ ELF>@@@UH��H�}��E��E��E��E��E��E���E��E�Hc�H�E�H����u����E�Hc�H�E�H��<-u�E��E�Hc�H�E�H��</���E�Hc�H�E�H��<9x�E�Hc�H�E�H������0�E��E����t�]��U��������‹E�ЉE��E��E�H�H�PH�E�H��</~4�E�H�H�PH�E�H��<9�E��E��E�;E�} 
+ �}��.����}�u���E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�5A�C 0.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@5!u'u,0u45�J�8E�	�T� 
+ 	���5100-atoi.c_atoi 1-isdigit.o/ 1551376392 1000 1000 100664 1264 ` 
+ ELF>(@@UH��}��}�/~ �}�9���]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�!A�C \.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@!!a'a,0a45�J�8E�	�T�� 
+ 	��� !1-isdigit.c_isdigit 1-memcpy.o/ 1551376392 1000 1000 100664 1296 ` 
+ ELF>H@@UH��H�}�H�u��U��E���U�H�E�H‹M�H�E�H����E��E�;E�r�H�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�CA�C ~.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@C!�'�,0�45�J�8E�	�T� 
+ 	���C1-memcpy.c_memcpy 1-strncat.o/ 1551376392 1000 1000 100664 1376 ` 
+ ELF>�@@UH��H�}�H�u��U��E��E���E��E�Hc�H�E�H����u��'�E�Hc�H�E�H‹E�Hc�H�E�H����E��E��E�Hc�H�E�H����t�E�;E�|��E�Hc�H�E�H��H�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx��A�C �.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@�!�'�,0�45J8EH	@TX� 
+ 	0�� �1-strncat.c_strncat 2-strchr.o/ 1551376392 1000 1000 100664 1296 ` 
+ ELF>H@@UH��H�}���E�H�E�H�PH�U�����E��E�;E�u 
+ H�E�H����}�uҸ]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�BA�C }.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@B!�'�,0�45�J�8E�	�T� 
+ 	���B2-strchr.c_strchr 2-strlen.o/ 1551376392 1000 1000 100664 1280 ` 
+ ELF>8@@UH��H�}��E���E��E�Hc�H�E�H����u�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�.A�C i.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@.!n'n,0n45�J�8E�	�T�� 
+ 	���.2-strlen.c_strlen 2-strncpy.o/ 1551376392 1000 1000 100664 1352 ` 
+ ELF>�@@UH��H�}�H�u��U��E��#�E�Hc�H�E�H‹E�Hc�H�E�H����E��E�Hc�H�E�H����t�E�;E�|���E�Hc�H�E�H���E��E�;E�|�H�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�{A�C v.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@{!�'�,0�45�J�8E0	(T@� 
+ 	�� {2-strncpy.c_strncpy 3-islower.o/ 1551376392 1000 1000 100664 1264 ` 
+ ELF>(@@UH��}��}�`~ �}�z���]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�!A�C \.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@!!a'a,0a45�J�8E�	�T�� 
+ 	��� !3-islower.c_islower 3-puts.o/ 1551376392 1000 1000 100664 1464 ` 
+ ELF>`@@	UH��H�� H�}��E���E�Hc�H�E�H��������E��E�Hc�H�E�H����uο 
+ ����GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�TA�C O.symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.rela.eh_frame @Tp0 
+ &�,�10�4:�O�8J� 
+ Y`�	P�� 
+ T3-puts.c_puts_putchar+	��������M	�������� 3-strcmp.o/ 1551376392 1000 1000 100664 1320 ` 
+ ELF>`@@UH��H�}�H�u��H�E����u��4H�E�H�E�H�E��H�E��8�t�H�E����H�E����)‰�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�VA�C Q.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@V!�'�,0�45�J�8E	T � 
+ 	���V3-strcmp.c_strcmp 3-strspn.o/ 1551376392 1000 1000 100664 1392 ` 
+ ELF>�@@UH��H�}�H�u��E��E��f�E��E��3�E�Hc�H�E�H���E�Hc�H�E�H��8�u�E��E��E��E�Hc�H�E�H����u��}�u�E���E��E�Hc�H�E�H����u��]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx��A�C �.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@�!�'�,0�45J8EX	PTh� 
+ 	@���3-strspn.c_strspn 4-isalpha.o/ 1551376392 1000 1000 100664 1280 ` 
+ ELF>8@@UH��}��}�`~�}�z~�}�@~ �}�Z���]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�-A�C h.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@-!m'm,0m45�J�8E�	�T�� 
+ 	��� -4-isalpha.c_isalpha 4-strpbrk.o/ 1551376392 1000 1000 100664 1344 ` 
+ ELF>x@@UH��H�}�H�u��E��K�E��%H�E���E�Hc�H�E�H��8�uH�E��1�E��E�Hc�H�E�H����u�H�E��E�H�E����u��]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�rA�C m.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@r!�'�,0�45�J�8E(	 T8� 
+ 	�� r4-strpbrk.c_strpbrk 5-strstr.o/ 1551376392 1000 1000 100664 1400 ` 
+ ELF>�@@UH��H�}�H�u��E��t�E��-�U��E��Hc�H�E�H���E�Hc�H�E�H��8�u�E��E�Hc�H�E�H����u����E�Hc�H�E�H����u�E�Hc�H�E�H��!�E��E�Hc�H�E�H�����t����]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx��A�C �.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@�!�'�,0�45J 8E`	XTp� 
+ 	H���5-strstr.c_strstr 6-abs.o/ 1551376392 1000 1000 100664 1248 ` 
+ ELF> @@UH��}��}�x�E���E���]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�A�C T.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@!Y'Y,0Y45�J�8E�	�T�� 
+ 	���	6-abs.c_abs 9-strcpy.o/ 1551376392 1000 1000 100664 1352 ` 
+ ELF>�@@UH��H�}�H�u��E���E��E�Hc�H�E�H����u��E��#�E�Hc�H�E�H‹E�Hc�H�E�H����E��E�;E�|ՋE�Hc�H�E�H��H�E�]�GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�wA�C r.symtab.strtab.shstrtab.text.data.bss.comment.note.GNU-stack.rela.eh_frame@w!�'�,0�45�J�8E0	(T@� 
+ 	��w9-strcpy.c_strcpy _putchar.o/ 1551376392 1000 1000 100664 1400 ` 
+ ELF>8@@	UH��H�����E�H�E��H�ƿ���GCC: (Ubuntu 5.5.0-12ubuntu1~14.04) 5.5.0 20171010zRx�%A�C `.symtab.strtab.shstrtab.rela.text.data.bss.comment.note.GNU-stack.rela.eh_frame @%H 
+ &e,e10e4:�O�8J` 
+ �Y8�	(��%_putchar.c_putcharwrite	�������� 
