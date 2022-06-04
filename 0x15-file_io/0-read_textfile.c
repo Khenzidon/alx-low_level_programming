@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * read_textfile - reads a text file and prints it to the standard output
@@ -34,7 +34,7 @@ ssize_t read_textfile(const char *filename, size_t letters)
 
 	close(f);
 
-	= write(STDOUT_FILENO, buf, p);
+	q = write(STDOUT_FILENO, buf, p);
 	if (q < 0)
 	
 		free(buf);
@@ -42,5 +42,5 @@ ssize_t read_textfile(const char *filename, size_t letters)
 	}
 
 	free(buf);
-	return (t);
+	return (q);
 }
